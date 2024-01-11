@@ -1,4 +1,3 @@
-# Email-Spam-filter-using-Navies-Bayes
 # Email Spam Filter using Naive Bayes
 
 ## Overview
